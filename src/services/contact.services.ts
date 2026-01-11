@@ -11,7 +11,7 @@ interface ContactMailData {
 }
 
 export const sendingContactMail = async (datas: ContactMailData): Promise<boolean> => {
-    const businessEmail = "tilakgubhaju3@gmail.com";
+    const businessEmail = "manifestedu11@gmail.com";
     const websiteUrl = "https://www.manifestedu.com.np";
     const logoUrl = "https://www.manifestedu.com.np/logo.jpg"; // Host your logo online
 
